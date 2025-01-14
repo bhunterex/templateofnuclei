@@ -4,7 +4,7 @@ info:
   name: Basic Reflection Potential XSS Detection
   author: pdteam
   severity: low
-  tags: xss,bxss,dast
+  tags: xss,rxss,dast
 
 http:
   - method: GET
